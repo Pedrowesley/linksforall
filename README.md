@@ -105,7 +105,7 @@ The user file is all personal content from page, feel free to create/update new 
 
 ```json
 [
-  "fullname": "Bruno Rodrigues",
+  "fullname": "Bruno Rodriguess",
   "website": "https://itbruno.com.br",
   "role": "UI Designer & Front-end dev",
   "bio": "UI Designer and Front-end developer, based on Brazil and working at Nuvemshop",
