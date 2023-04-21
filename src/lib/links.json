@@ -1,7 +1,13 @@
 [
   {
-    "label": "Link para meu LinkedIn",
+    "label": "CSS - Simple Waves",
     "categoryId": "projects",
     "url": "https://www.linkedin.com/in/pedro-wesley-440130145/"
+  },
+  {
+    "label": "Link para meu LinkedIn",
+    "categoryId": "all",
+    "url": "https://www.linkedin.com/in/pedro-wesley-440130145/"
   }
+ 
 ]
